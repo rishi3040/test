@@ -1,0 +1,1 @@
+Note: The topics property for repositories on GitHub is currently available for developers ... visibility of a repository using the new visibility parameter in the Repositories API, and ... type, string, Can be one of all , owner , public , private , member . ... code of conduct if it can be detected from the repository's code of conduct file.
